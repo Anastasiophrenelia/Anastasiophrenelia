@@ -1,34 +1,34 @@
-<h1 align="center">Salut, moi c'est Anastasiophrenelia 👋</h1>
-<p align="center"><b>Vibe codeur 🎮 · Je crée des extensions de navigateur et des petits jeux web</b></p>
+<h1 align="center">Hi, I'm Anastasiophrenelia 👋</h1>
+<p align="center"><b>Vibe coder 🎮 · I build browser extensions and small web games</b></p>
 
 <p align="center">
-  <a href="https://ko-fi.com/anastasiophrenelia"><img src="https://img.shields.io/badge/Ko--fi-soutenir%20mes%20projets-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://ko-fi.com/anastasiophrenelia"><img src="https://img.shields.io/badge/Ko--fi-support%20my%20projects-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://discord.gg/nsXbSNfvDy"><img src="https://img.shields.io/badge/Discord-TCG%20Price%20Hunter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
 
-## 🃏 Projet phare : TCG Price Hunter
+## 🃏 Featured project: TCG Price Hunter
 
 <a href="https://github.com/Anastasiophrenelia/TCG-Price-Hunter"><img src="https://raw.githubusercontent.com/Anastasiophrenelia/TCG-Price-Hunter/main/icons/128.png" width="90" align="left" alt="TCG Price Hunter"></a>
 
-**L'extension qui trouve le panier le moins cher sur Cardmarket pour tes cartes TCG, frais de port compris.**
-Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… Elle scanne les vendeurs, calcule la meilleure combinaison avec les vrais tarifs de port et remplit ton panier en un clic.
+**The extension that finds the cheapest basket on Cardmarket for your TCG cards, shipping included.**
+Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… It scans sellers, works out the best combination with real shipping rates and fills your cart in one click.
 
 <br clear="left">
 
-| Navigateur | Statut |
+| Browser | Status |
 |---|---|
-| 🦊 Firefox | ✅ [Disponible](https://addons.mozilla.org/fr/firefox/addon/tcg-price-hunter-cardmarket/) |
-| 🌊 Edge | ✅ Disponible *(lien bientôt)* |
-| 🟡 Chrome | ⏳ Pas encore sur le Chrome Web Store : [à prendre sur GitHub](https://github.com/Anastasiophrenelia/TCG-Price-Hunter/releases/latest) |
+| 🦊 Firefox | ✅ [Available](https://addons.mozilla.org/firefox/addon/tcg-price-hunter-cardmarket/) |
+| 🌊 Edge | ✅ Available *(link coming soon)* |
+| 🟡 Chrome | ⏳ Not on the Chrome Web Store yet: [get it on GitHub](https://github.com/Anastasiophrenelia/TCG-Price-Hunter/releases/latest) |
 
-👉 **[Voir le projet](https://github.com/Anastasiophrenelia/TCG-Price-Hunter)**
+👉 **[See the project](https://github.com/Anastasiophrenelia/TCG-Price-Hunter)**
 
-## 🧩 Autres projets
+## 🧩 Other projects
 
-- 🌍 **[Capitales du monde](https://github.com/Anastasiophrenelia/Capitales-du-monde)** : jeu web de géographie (capitales, pays, carte).
-- 🎴 **[wiki-masters-gif](https://github.com/Anastasiophrenelia/wiki-masters-gif)** : projet autour des cartes WikiMasters.
+- 🌍 **[Capitales du monde](https://github.com/Anastasiophrenelia/Capitales-du-monde)**: a geography web game (capitals, countries, map).
+- 🎴 **[wiki-masters-gif](https://github.com/Anastasiophrenelia/wiki-masters-gif)**: a project around WikiMasters cards.
 
 ---
 
