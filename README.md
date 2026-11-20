@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/anastasiophrenelia"><img src="https://img.shields.io/badge/Ko--fi-support%20my%20projects-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
-  <a href="https://discord.gg/nsXbSNfvDy"><img src="https://img.shields.io/badge/Discord-TCG%20Price%20Hunter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/Vm8vfqznh2"><img src="https://img.shields.io/badge/Discord-TCG%20Price%20Hunter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
@@ -34,6 +34,6 @@ Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… It sca
 
 <p align="center">
   <a href="https://ko-fi.com/anastasiophrenelia">☕ Ko-fi</a> ·
-  <a href="https://discord.gg/nsXbSNfvDy">💬 Discord</a> ·
+  <a href="https://discord.gg/Vm8vfqznh2">💬 Discord</a> ·
   <a href="https://github.com/Anastasiophrenelia/TCG-Price-Hunter">🃏 TCG Price Hunter</a>
 </p>
