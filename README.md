@@ -22,8 +22,8 @@ Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… Add yo
 | Browser | Status |
 |---|---|
 | 🦊 Firefox | ✅ [Available](https://addons.mozilla.org/firefox/addon/tcg-price-hunter-cardmarket/) |
-| 🌊 Edge | ✅ Available *(link coming soon)* |
-| 🟡 Chrome | ⏳ Not on the Chrome Web Store yet: [get it on GitHub](https://github.com/Anastasiophrenelia/TCG-Price-Hunter/releases/latest) |
+| 🌊 Edge | ⏳ Not on the Edge Store yet: [get it on GitHub](https://github.com/Anastasiophrenelia/TCG-Price-Hunter/releases/latest) |
+| 🟡 Chrome | ⏳ Not on the Chrome Store yet: [get it on GitHub](https://github.com/Anastasiophrenelia/TCG-Price-Hunter/releases/latest) |
 
 👉 **[See the project](https://github.com/Anastasiophrenelia/TCG-Price-Hunter)**
 
