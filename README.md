@@ -10,7 +10,7 @@
 
 ## 🃏 Featured project: TCG Price Hunter
 
-<a href="https://github.com/Anastasiophrenelia/TCG-Price-Hunter"><img src="https://raw.githubusercontent.com/Anastasiophrenelia/TCG-Price-Hunter/main/icons/128.png" width="90" align="left" alt="TCG Price Hunter"></a>
+<a href="https://github.com/Anastasiophrenelia/TCG-Price-Hunter"><img src="https://raw.githubusercontent.com/Anastasiophrenelia/TCG-Price-Hunter/main/icons/128.png?v=1.32" width="90" align="left" alt="TCG Price Hunter"></a>
 
 **The extension that finds the cheapest basket on Cardmarket for your TCG cards, shipping included.**
 Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… Add your cards or import a whole deck, scan the sellers, get the cheapest combination with real shipping rates, compare it with Cardmarket's Shopping Wizard and fill your cart in one click.
