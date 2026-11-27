@@ -15,7 +15,7 @@
 **The extension that finds the cheapest basket on Cardmarket for your TCG cards, shipping included.**
 Riftbound, Pokémon, Magic, One Piece, Lorcana, Yu-Gi-Oh!, Dragon Ball… Add your cards or import a whole deck, scan the sellers, get the cheapest combination with real shipping rates, compare it with Cardmarket's Shopping Wizard and fill your cart in one click.
 
-🆕 **Version 1.35**: deck import (Piltover Archive, Riftdecks), comparison with Cardmarket, 3 scan modes, smarter best basket and an interactive tutorial.
+🆕 **Version 1.40**: check sellers' stock for an even cheaper basket, deck import from YGOPRODeck, Limitless TCG and MTGGoldfish, faster Long scan and adjustable pages per minute.
 
 <br clear="left">
 
